@@ -57,7 +57,7 @@ function App() {
 
     setReply([
       ...reply,
-        newReply,
+      newReply,
     ])
     setNewReply({
       id: '', 
